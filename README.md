@@ -1,2 +1,3 @@
 # hello-world
-Just about reposiory
+Just about repository
+so i can do many things here. YES!
